@@ -23,6 +23,3 @@ module.exports = {
     calculate_x : calculate_x,
     calculate_y : calculate_y
 }
-// exports.integration_step = integration_step;
-// exports.calculate_x = calculate_x;
-// exports.calculate_y = calculate_y;
